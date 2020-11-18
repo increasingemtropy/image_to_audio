@@ -1,4 +1,4 @@
-# image_to_audio
+# image2audio
 Generate a sound file from an image
 
 Jupyter notebook that takes an image, processes it into a format that can be read as a fourier spectrogram, and then uses that fourier spectrogram
